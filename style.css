@@ -1,0 +1,55 @@
+div{
+    margin-bottom: 10px;padding: 0;
+    background-color: rgb(81, 134, 232);
+}
+
+.city{
+    margin: 0;padding: 10;
+    background-color: black;
+    text-align: center;
+   
+    box-shadow: inset;
+}
+
+h2{
+    color: aliceblue;
+}
+button{
+    color: blue;
+    padding: auto;
+    
+}
+
+.feedback {
+    margin: 20px;
+padding: 30px;
+border-radius: 20%;
+text-align: center;
+color: antiquewhite;
+;
+}
+footer{
+  text-align: center;
+}
+.fa{
+    padding: 20px;
+    font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+.fa:hover{
+    opacity: .8;
+}
+.fa-facebook  {
+    background: #3B5998;
+    color: white;
+}
+.fa-twitter{
+    background: #55ACEE;
+    color: white;
+}
+.fa-snapchat{
+    background: #e4e404;
+    color: white;
+}
